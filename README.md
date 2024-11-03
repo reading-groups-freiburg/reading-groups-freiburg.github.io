@@ -1,1 +1,0 @@
-# reading-groups-freiburg.github.io
