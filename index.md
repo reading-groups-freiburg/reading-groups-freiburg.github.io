@@ -32,12 +32,15 @@ Covering broad topics and recent trends from computer vision, deep learning and 
 **Recent Sessions**
 
 - **30.10.2024**: ["Round and Round We Go: What makes Rotary Embeddings useful?"](https://arxiv.org/abs/2410.06205)
+
    *Presenter: Simon Schrodi*  
 
 - **16.10.2024**: ["Diffusion Forcing: Next-token Prediction Meets Full Sequence Diffusion"](https://arxiv.org/abs/2407.01392)
+
    *Presenter: Karim Farid*  
 
 - **02.10.2024**: ["The Physics of Language Models: Part 1"](https://arxiv.org/abs/2305.13673)  
+
    *Presenter: ICML Tutorial, Jelena Bratulić serving as moderator*
 
 ---
@@ -63,12 +66,15 @@ Exploring latest developments in reinforcement learning and its applications.
 **Recent Sessions**:
 
 - **date**: "Title"
+
+   *Presenter: Name Surname*  
+
+- **date**: "Title" 
+
    *Presenter: Name Surname*  
 
 - **date**: "Title"  
-   *Presenter: Name Surname*  
 
-- **date**: "Title"  
    *Presenter: Name Surname*  
 
 ---
@@ -94,12 +100,15 @@ Exploring latest developments in diffusion.
 **Recent Sessions**:
 
 - **date**: "Title"
+
    *Presenter: Name Surname*  
 
 - **date**: "Title"  
+
    *Presenter: Name Surname*  
 
 - **date**: "Title"  
+
    *Presenter: Name Surname*  
 
 ---
@@ -125,12 +134,15 @@ Exploring latest developments in robotics.
 **Recent Sessions**:
 
 - **date**: "Title"
+
    *Presenter: Name Surname*  
 
 - **date**: "Title"  
+
    *Presenter: Name Surname*  
 
 - **date**: "Title"  
+
    *Presenter: Name Surname*  
 
 ---
@@ -156,12 +168,15 @@ Exploring latest developments in robotics.
 **Recent Sessions**:
 
 - **date**: "Title"
+
    *Presenter: Name Surname*  
 
 - **date**: "Title"  
+
    *Presenter: Name Surname*  
 
 - **date**: "Title"  
+
    *Presenter: Name Surname*  
 
 ---
