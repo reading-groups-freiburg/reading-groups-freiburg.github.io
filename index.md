@@ -47,35 +47,31 @@ Covering broad topics and recent trends from computer vision, deep learning and 
 
 ## RL Reading Group (Reinforcement Learning)
 
-**Time**: TBD
+**Time**: Thursdays (biweekly), 10:30 🕥
 
-**Location**: TBD
+**Location**: Online 
 
-**Zoom**: TBD
+**Zoom**: https://uni-freiburg.zoom-x.de/j/9753052469?pwd=C8GUHkL4u4uarUG9vbYlIDarNBkcHY.1
 
-**Type**: Hybrid / in-person
+**Type**: Online
 
-**Organizers**: TBD
+**Organizers**: Yuan Zhang, Erfan Azad, Julien Brosseit
 
-**How to subscribe**: Contact organizers?
+**How to subscribe**: Contact organizers
 
 Exploring latest developments in reinforcement learning and its applications.
 
-**Next Session**: On date, Name Surname will present "Title". See you at Location, Time.
+**Next Session**: [14-11-2024 - 10:30am] - Presenter: Raghu Rajan - Topic: TBD
 
 **Recent Sessions**:
 
-- **date**: "Title"
+- **09-10-2024**: "Is Value Learning Really the Main Bottleneck in Offline RL?"
 
-   *Presenter: Name Surname*  
+   *Presenter: Erfan Azad*  
 
-- **date**: "Title" 
+- **30-10-2024**: "The Surprising Ineffectiveness of Pre-Trained Visual Representations for Model-Based Reinforcement Learning" 
 
-   *Presenter: Name Surname*  
-
-- **date**: "Title"  
-
-   *Presenter: Name Surname*  
+   *Presenter: Moritz Schneider*  
 
 ---
 
