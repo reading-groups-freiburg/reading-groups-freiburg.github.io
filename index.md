@@ -51,7 +51,7 @@ Covering broad topics and recent trends from computer vision, deep learning and 
 
 **Location**: Online 
 
-**Zoom**: TBD
+**Zoom**: https://uni-freiburg.zoom-x.de/j/9753052469?pwd=C8GUHkL4u4uarUG9vbYlIDarNBkcHY.1
 
 **Type**: Online
 
