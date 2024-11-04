@@ -61,7 +61,7 @@ Covering broad topics and recent trends from computer vision, deep learning and 
 
 Exploring latest developments in reinforcement learning and its applications.
 
-**Next Session**: TBD
+**Next Session**: [14-11-2024 - 10:30am] - Presenter: Raghu Rajan - Topic: TBD
 
 **Recent Sessions**:
 
