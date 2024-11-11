@@ -27,9 +27,13 @@ We host several regular reading groups focusing on different aspects of machine 
 
 Covering broad topics and recent trends from computer vision, deep learning and machine learning. Recently, we had In-context learning (ICL) focused sessions, but we are back to covering general papers which could be of interest to a wide audience.
 
-**Next Session**: Join us on 06.11.2024 for TBD presented by Julien Siems & Riccardo Grazzi. See you at LMB Seminar room (or virtually on Zoom), starting at 15.00 h.
+**Next Session**: Join us on 13.11.2024 for "π0: A Vision-Language-Action Flow Model for General Robot Control" presented by Max Argus. See you at LMB Seminar room (or virtually on Zoom), starting at 15.00 h.
 
 **Recent Sessions**
+
+- **06.11.2024**: ["Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models"](https://arxiv.org/abs/2410.09385)
+
+   *Presenter: Sathya Kamesh Bhethanabhotla & Omar Swelam* 
 
 - **30.10.2024**: ["Round and Round We Go: What makes Rotary Embeddings useful?"](https://arxiv.org/abs/2410.06205)
 
@@ -38,10 +42,6 @@ Covering broad topics and recent trends from computer vision, deep learning and 
 - **16.10.2024**: ["Diffusion Forcing: Next-token Prediction Meets Full Sequence Diffusion"](https://arxiv.org/abs/2407.01392)
 
    *Presenter: Karim Farid*  
-
-- **02.10.2024**: ["The Physics of Language Models: Part 1"](https://arxiv.org/abs/2305.13673)  
-
-   *Presenter: ICML Tutorial, Jelena Bratulić serving as moderator*
 
 ---
 
