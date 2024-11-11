@@ -77,35 +77,19 @@ Exploring latest developments in reinforcement learning and its applications.
 
 ## Diffusion Reading Group
 
-**Time**: TBD
+**Time**: Tuesdays, 3pm-4pm
 
-**Location**: TBD  
+**Location**: Imbit, Botics Lounge  
 
-**Zoom**: TBD
+**Type**: in-person
 
-**Type**: Hybrid / in-person
+**Organizers**: [Jan Ole von Hartz](https://rl.uni-freiburg.de/people/hartz)
 
-**Organizers**: TBD
+**How to subscribe**: Contact organizer
 
-**How to subscribe**: Contact organizers?
+Theory and application of Diffusion and Flow Matching. Often with a robotics focus, but also including other topics, such as RL, image generation, and protein design.
 
-Exploring latest developments in diffusion.
-
-**Next Session**: On date, Name Surname will present "Title". See you at Location, Time.
-
-**Recent Sessions**:
-
-- **date**: "Title"
-
-   *Presenter: Name Surname*  
-
-- **date**: "Title"  
-
-   *Presenter: Name Surname*  
-
-- **date**: "Title"  
-
-   *Presenter: Name Surname*  
+**Next Session**: See email announcements and our [Shared Schedule](https://docs.google.com/spreadsheets/d/104tTWYHOECUdbNwF9im2difhO9o0tozOLTSGbtGpmGw/edit?usp=sharing).
 
 ---
 
