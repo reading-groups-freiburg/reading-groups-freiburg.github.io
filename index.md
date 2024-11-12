@@ -61,7 +61,7 @@ Covering broad topics and recent trends from computer vision, deep learning and 
 
 Exploring latest developments in reinforcement learning and its applications.
 
-**Next Session**: [14-11-2024 - 10:30am] - Presenter: Raghu Rajan - Topic: TBD
+**Next Session**: [14-11-2024 - 10:30am] - Presenter: Raghu Rajan - Paper: [GenRL: Multimodal-foundation world models for generalization in embodied agents](https://arxiv.org/abs/2406.18043)
 
 **Recent Sessions**:
 
