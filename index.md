@@ -51,7 +51,7 @@ Covering broad topics and recent trends from computer vision, deep learning and 
 
 **Location**: Online 
 
-**Zoom**: https://uni-freiburg.zoom-x.de/j/9753052469?pwd=C8GUHkL4u4uarUG9vbYlIDarNBkcHY.1
+**Zoom**: [Join Zoom Meeting](https://uni-freiburg.zoom-x.de/j/9753052469?pwd=C8GUHkL4u4uarUG9vbYlIDarNBkcHY.1)
 
 **Type**: Online
 
@@ -61,7 +61,7 @@ Covering broad topics and recent trends from computer vision, deep learning and 
 
 Exploring latest developments in reinforcement learning and its applications.
 
-**Next Session**: [14-11-2024 - 10:30am] - Presenter: Raghu Rajan - Paper: [GenRL: Multimodal-foundation world models for generalization in embodied agents](https://arxiv.org/abs/2406.18043)
+**Next Session**: [28-11-2024 - 10:30am] - Presenter: Yuan Zhang - Paper: [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/abs/2302.02948)
 
 **Recent Sessions**:
 
@@ -71,7 +71,11 @@ Exploring latest developments in reinforcement learning and its applications.
 
 - **30-10-2024**: "The Surprising Ineffectiveness of Pre-Trained Visual Representations for Model-Based Reinforcement Learning" 
 
-   *Presenter: Moritz Schneider*  
+   *Presenter: Moritz Schneider*
+
+- **14-11-2024**: "GenRL: Multimodal-foundation world models for generalization in embodied agents"
+
+  *Presenter: Raghu Rajan*
 
 ---
 
