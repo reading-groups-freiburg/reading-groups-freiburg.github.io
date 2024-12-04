@@ -8,8 +8,7 @@ We host several regular reading groups focusing on different aspects of machine 
 - [DLHO](#dlho-reading-group-deep-learning--hyperparameter-optimization)
 - [RL](#rl-reading-group-reinforcement-learning)
 - [Diffusion](#diffusion-reading-group)
-- [Mobility](#mobility-reading-group)
-- [Manipulation](#manipulation-reading-group)
+- [Robot Learning](#robot-learning-reading-group)
 
 ## DLHO Reading Group (Deep Learning & Hyperparameter Optimization)
 
@@ -83,71 +82,21 @@ Theory and application of Diffusion and Flow Matching. Often with a robotics foc
 
 ---
 
-## Mobility Reading Group
+## Robot Learning Reading Group
 
-**Time**: TBD
+**Time**: Fridays, 3pm-4pm
 
-**Location**: TBD  
+**Location**: Building 080, Seminar Room (Ground Floor)  
 
-**Zoom**: TBD
+**Type**: in-person
 
-**Type**: Hybrid / in-person
+**Organizers**: [Martin Büchner](https://rl.uni-freiburg.de/people/buechner), [Maximilian Luz](https://rl.uni-freiburg.de/people/luz), [Daniel Honerkamp](https://rl.uni-freiburg.de/people/honerkamp)
 
-**Organizers**: TBD
-
-**How to subscribe**: Contact organizers?
+**How to subscribe**: Sign up to the [mailing list](https://forms.gle/dsFah5Gfw9nTgtsr5)
 
 Exploring latest developments in robotics.
 
-**Next Session**: On date, Name Surname will present "Title". See you at Location, Time.
-
-**Recent Sessions**:
-
-- **date**: "Title"
-
-   *Presenter: Name Surname*  
-
-- **date**: "Title"  
-
-   *Presenter: Name Surname*  
-
-- **date**: "Title"  
-
-   *Presenter: Name Surname*  
-
----
-
-## Manipulation Reading Group
-
-**Time**: TBD
-
-**Location**: TBD  
-
-**Zoom**: TBD
-
-**Type**: Hybrid / in-person
-
-**Organizers**: TBD
-
-**How to subscribe**: Contact organizers?
-
-Exploring latest developments in robotics.
-
-**Next Session**: On date, Name Surname will present "Title". See you at Location, Time.
-
-**Recent Sessions**:
-
-- **date**: "Title"
-
-   *Presenter: Name Surname*  
-
-- **date**: "Title"  
-
-   *Presenter: Name Surname*  
-
-- **date**: "Title"  
-
-   *Presenter: Name Surname*  
+**Next Session**: See email announcements and our [Shared Schedule](https://docs.google.com/spreadsheets/d/104tTWYHOECUdbNwF9im2difhO9o0tozOLTSGbtGpmGw/edit?usp=sharing).
 
 ---
 
